@@ -1,0 +1,13 @@
+# Data
+path: /media/veracrypt2/computer_vision/47_pose_detection_yolov8/code/data
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Keypoints
+kpt_shape: [39, 3]  # [number of keypoints, number of dim]
+flip_idx: [0, 1, 2, 4, 3, 10, 11, 12, 13, 14, 5, 6, 7, 8, 9, 15, 16, 17, 18, 19, 20, 21, 22, 23, 27, 28, 29, 24, 25,
+           26, 33, 34, 35, 30, 31, 32, 36, 38, 37]
+
+# Classes
+names:
+  0: quadruped
