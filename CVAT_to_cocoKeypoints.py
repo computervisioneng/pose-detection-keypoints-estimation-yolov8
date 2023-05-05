@@ -30,7 +30,7 @@ for image in images:
 
     for e in elem:
 
-        label_file.write('0 {} {} {} {} '.format(str((xtl + w) / (2 * width)), str((ytl + h) / (2 * height)),
+        label_file.write('0 {} {} {} {} '.format(str((xtl + (w / 2)) / width), str((ytl + (h / 2)) / height),
                                                  str(w / width), str(h / height)))
 
         points = e.attributes['points']
