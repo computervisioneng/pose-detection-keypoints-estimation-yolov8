@@ -9,4 +9,4 @@
 
 ## data
 
-You can download the same data I used to train the model in this tutorial [here](https://drive.google.com/drive/folders/1KynwMSFcAluBFjCnTldN8D0OWSuyvKgW?usp=sharing).
+You can download the same data I used to train the model in this tutorial [here](https://drive.google.com/file/d/15FkeG4GzJGfwYWBIAaDh5FSapzCN5BaC/view?usp=sharing).
