@@ -7,6 +7,3 @@
 </a>
 </p>
 
-## data
-
-You can download the same data I used to train the model in this tutorial [here](https://drive.google.com/file/d/15FkeG4GzJGfwYWBIAaDh5FSapzCN5BaC/view?usp=sharing).
